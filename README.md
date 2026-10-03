@@ -20,4 +20,4 @@ A privacy-friendly classroom sound visualizer and quiet-room challenge built wit
 The app requires microphone permission. Use HTTPS (the deployed site does) and tap **Allow** when your browser requests microphone access.
 
 ## Live Demo
-Live deployment URL will be added after deployment.
+🌐 https://classroom-noise-meter-ashoka.onrender.com
