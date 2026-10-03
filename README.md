@@ -21,3 +21,13 @@ The app requires microphone permission. Use HTTPS (the deployed site does) and t
 
 ## Live Demo
 🌐 https://classroom-noise-meter-ashoka.onrender.com
+
+
+## Version history
+- V1 — Core: live relative sound meter, waveform, statistics and quiet challenge.
+- V2 — Reporting: downloadable session/settings snapshot.
+- V3 — Recovery: versioned JSON backup/restore for persisted local settings plus session report metadata.
+
+**Current version: V3**
+
+V3 adds in-app **Backup** and **Restore** controls using portable JSON snapshots of this app's local browser state.
